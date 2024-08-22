@@ -212,7 +212,7 @@ public class CartController extends HttpServlet {
         //account
         Account acc = (Account) session.getAttribute("accFounded");
         //list product
-        Vector<Product> vector = (Vector<Product>) session.getAttribute("vectorProduct");
+        Vector<Product> vector = (Vector<Product>) session.getAttribute("listAllProduct");
         if (cart == null || vector == null) {
             response.sendRedirect("home");
             return;

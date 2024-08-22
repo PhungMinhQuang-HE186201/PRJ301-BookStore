@@ -118,7 +118,7 @@
                                                 </tr>							
                                             </thead>
                                             <c:forEach items="${cart.listOrderItems}" var="od">
-                                                <c:forEach items="${vectorProduct}" var="product">
+                                                <c:forEach items="${listAllProduct}" var="product">
                                                     <c:if test="${product.id == od.getProduct_id()}">
                                                         <c:set var="p" value="${product}"></c:set>
                                                     </c:if>
