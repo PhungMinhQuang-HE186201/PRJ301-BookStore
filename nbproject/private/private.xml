@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/web/view/authen/lostPass.jsp</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/web/view/admin/adminOrder.jsp</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/src/java/entity/Account.java</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/web/view/authen/login.jsp</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/src/java/controller/authen/AuthenController.java</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/web/view/authen/register.jsp</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/src/java/model/dal/AccountDAO.java</file>
+            <file>file:/D:/D_DATA/Documents/PRJ301/4User/Project/Store/src/java/controller/Email/Email.java</file>
+        </group>
+    </open-files>
+</project-private>
